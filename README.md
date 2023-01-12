@@ -31,12 +31,12 @@ Whenever the user completes the goals, they will be rewarded with points to get 
   </tr>
   <tr>
     <td>- Manage Food Intake and Exercise Diary</td>
-    <td> Student  can manage their food intake and exercise diary by </br> 
+    <td> Student can manage their food intake and exercise diary by </br> 
     inputting their daily food intake and exercises they have done.</td>
   </tr>
   <tr>
     <td>- Set Mealtimes Reminder</td>
-    <td>Student  can set reminders for mealtimes for breakfast, lunch and dinner.</td>
+    <td>Student can set reminders for mealtimes for breakfast, lunch and dinner.</td>
   </tr>
   <tr>
     <td>- View Real-Time Route with Calculated Steps</td>
@@ -45,7 +45,7 @@ Whenever the user completes the goals, they will be rewarded with points to get 
   </tr>
   <tr>
     <td>- Collect Points </br>- Get Rewards</td>
-    <td>TStudent  can collect points after completing goals to get rewards</td>
+    <td>Student can collect points after completing goals to get rewards</td>
   </tr>
   <tr>
     <td>- Create Exercise with Friends</td>
