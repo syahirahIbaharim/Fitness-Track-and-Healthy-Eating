@@ -10,6 +10,39 @@ Subsystem 3: Fitness Track and Healthy Eating<br>
 
 <h3>My FYP subsystem</h3>
 <h4> Fitness Track and Healthy Eating :runner::green_apple: </h4>
-This subsystem is used to keep track of student fitness. It allows students to create their avatars and <br />
-keep track of all the physical activities they do daily, such as walking, eating, or exercising. <br />
-Whenever the user completes the desired task, they will be rewarded with some points.
+This subsystem focuses on the healthy life of the students in terms of fitness tracking  <br />
+and healthy eating to keep adopting a healthy lifestyle. <br />
+Whenever the user completes the goals, they will be rewarded with points to get rewards. <br />
+
+<body>
+
+<h2>beFit Features</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>- Manage Food Intake and Exercise Diary</td>
+    <td> Student  can manage their food intake and exercise diary by </br> 
+    inputting their daily food intake and exercises they have done.</td>
+  </tr>
+  <tr>
+    <td>- Set Mealtimes Reminder</td>
+    <td>Student  can set reminders for mealtimes for breakfast, lunch and dinner.</td>
+  </tr>
+  <tr>
+    <td>- View Real-Time Route with Calculated Steps</td>
+    <td>Student can view their route taken with the calculated steps, </br>
+    distance travelled and calories burned</td>
+  </tr>
+  <tr>
+    <td>- Collect Points </br>- Get Rewards</td>
+    <td>TStudent  can collect points after completing goals to get rewards</td>
+  </tr>
+  <tr>
+    <td>- Create Exercise with Friends</td>
+    <td>Student can create exercises to do together with friends.</td>
+  </tr>
+</table>
